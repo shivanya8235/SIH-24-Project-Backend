@@ -1,0 +1,6 @@
+# files to be ignored
+node_modules/
+.env
+planning.txt
+try.ipynb
+pic.jpg
